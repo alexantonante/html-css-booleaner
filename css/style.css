@@ -42,3 +42,28 @@ main {
 #descrizione_foto {
     font-size: 10px;
 }
+.tabella {
+    width: 100%;
+    border-collapse: collapse;
+}
+  
+  .tabella th, .tabella td {
+    text-align: left;
+    padding-left: 10px;
+}
+  
+  .tabella th {
+    background-color: #4EA0FF;
+    color: white;
+    height: 1px;
+    width: 10px;
+}
+  
+  .row_colorata {
+    background-color: #B1E5F2;
+}
+  
+  .row_bianca {
+    background-color: #ffffff;
+}
+  
