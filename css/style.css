@@ -66,4 +66,24 @@ main {
   .row_bianca {
     background-color: #ffffff;
 }
+h3 {
+    color: grey;
+}
+  
+  #img1 {
+    background-image: url(../img/monitor.jpg);
+    height: 150px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+  
+  #img2 {
+    background-image: url(../img/graph.jpg);
+    height: 150px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: #ffffff;
+}
   
