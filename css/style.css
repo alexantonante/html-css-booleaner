@@ -39,3 +39,6 @@ main {
   .images_main {
     padding-top: 20px; 
 }
+#descrizione_foto {
+    font-size: 10px;
+}
